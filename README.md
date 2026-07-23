@@ -16,6 +16,9 @@ I am currently building a practical GitHub portfolio related to cybersecurity, s
 
 ## Current Projects
 
+- [Windows Server DNS Lab](https://github.com/Czaprac/windows-server-dns-lab)  
+  Basic Windows Server 2019 DNS lab created in VirtualBox. Includes DNS role installation, forward lookup zone configuration, A record creation, `nslookup` testing, and troubleshooting notes.
+
 - [SOC Triage Notes](https://github.com/Czaprac/soc-triage-notes)  
   Learning notes, checklists, templates, and fictional examples related to basic SOC alert triage.
 
